@@ -12,3 +12,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.hitcounterCol{
+  text-align: center;
+}
+.hitcounterHeaderCol{
+  color: aqua; text-align: center;
+}
+.counterElement{
+  margin-right: 2px;
+  display: inline-block;
+  padding: 6px 6px 4px;
+  border-radius: 3px;
+  background: #b09dc4;
+  margin-right: -2px;
+}

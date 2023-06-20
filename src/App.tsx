@@ -1,12 +1,13 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import { Col, Container, Row } from 'react-bootstrap';
+import HitCounter from './components/HitCounter';
 
 function App() {
   return (
     <div className="App">
-      
-    </div>
+            <HitCounter />
+        </div>
   );
 }
 
